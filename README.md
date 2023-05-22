@@ -13,4 +13,4 @@ ReactJS와 NextJS를 사용하여 개발하고 있습니다. <br><br>
 ## 📌 <i>Tools</i>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Npm-CB3837?style=flat-square&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white"/> 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
